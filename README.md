@@ -1,4 +1,4 @@
-## Hi there 👋
+## Neema Sheby
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a **Front End Developer Lead** at Unify Giving, where I’m developing the **Geta App** – a platform connecting startup founders with investors. I’m leading a small team and focusing on leveraging **React**, **TypeScript**, **NestJS**, and **Tailwind CSS** to build efficient, user-friendly applications.
