@@ -12,7 +12,7 @@ Email me at [neemadas@gmail.com] or connect on [www.linkedin.com/in/neema-sheby-
 - ⚡ Fun fact:
 Before coding, I was an architect, so I love merging design with development!
 
-# 💫 About Me:
+## 💫 About Me:
  Hi there! 👋 I'm a passionate software developer specializing in **React**, **TypeScript**, **Express**, **NestJS**, and **JavaScript**, with experience building visually captivating and user-friendly websites. I have a proven track record of overcoming complex challenges and delivering efficient, high-quality web solutions. I'm always eager to contribute my expertise and drive innovation within dynamic teams, fostering both personal and professional growth.
 
 
